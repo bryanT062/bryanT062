@@ -6,8 +6,8 @@ Ici, tu trouveras mes projets perso, mes tests techniques, mes explorations avec
 
 ## 🚀 À propos de moi
 
-- 🔭 Je travaille actuellement sur : des projets d'apprentissage en Python, Node.js et plus
-- 🌱 J’apprends en ce moment : JavaScript avancé, React, API REST, Express, Docker
+- 🔭 Je travaille actuellement sur : des projets d'apprentissage en React, Node.js, JS et plus
+- 🌱 J’apprends en ce moment : JavaScript avancé, React, API REST
 - 💼 Objectif : devenir un développeur full-stack confirmé
 - 📫 Me contacter : [bryantate899@gmail.com](mailto:bryantate899@gmail.com)
 
