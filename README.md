@@ -36,7 +36,7 @@ Ici, tu trouveras mes projets perso, mes tests techniques, mes explorations avec
 
 ## 🌐 Me retrouver
 
-- ✉️ Email : [bryan.traore62@gmail.com](mailto:bryantate899@gmail.com)
+- ✉️ Email : [bryantate899@gmail.com](mailto:bryantate899@gmail.com)
 - 🧑‍💻 LinkedIn : **
 
 ---
